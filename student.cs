@@ -20,7 +20,7 @@ namespace WpfApp1
                 Name = value;
             }
         }
-        //// 3.Định nghĩa phương thức khởi tạo Student(string stName)
+        //// 3.phương thức khởi tạo Student(string stName)
         public void student(string stName)
         {
 
