@@ -20,5 +20,5 @@ namespace WpfApp1
                 Name = value;
             }
         }
-   
-
+    }
+}
