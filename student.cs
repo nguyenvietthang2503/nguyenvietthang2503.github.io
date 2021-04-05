@@ -21,12 +21,4 @@ namespace WpfApp1
             }
         }
    
-    private void btnTalk_Click(object sender, RoutedEventArgs e)
-    {
-        Student st1 = new Student("Minh");
-        st.Talk();
-        Student st2 = new Student();
-        st1.StudentName = "Dung";
-        st1.Talk();
-    }
-}
+
